@@ -1,0 +1,13 @@
+body{
+    background-image: url("./BCCI.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+  }
+  #p{
+    font-size: x-large;
+    font-weight: 400;
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: normal;
+  }
